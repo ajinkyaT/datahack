@@ -1,0 +1,6 @@
+1. Download data
+2. Do basic EDA
+3. Use autogluon built in feature engineering for categorical variables
+4. Use 5 k-fold validation for model building
+5. Use Random Forest, Extra trees, XGB, LGB, Catboost, and KNN models in each level of 3 stack
+6. Keep the best model and its ancestors and discard model utilities and unused models for faster inference with no drop in accuracy

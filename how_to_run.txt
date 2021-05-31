@@ -1,0 +1,5 @@
+# execute below commands in terminal
+
+$ sh setup.sh
+
+$ python solution.py
